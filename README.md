@@ -1,3 +1,3 @@
-# Prediction-Using-Supervised-ML
+ Prediction-Using-Supervised-ML
 
-Predicting Percentage of Students based on number of study hours
+Predicting Percentage of Students based on number of study hours using Linear Regression
